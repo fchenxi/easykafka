@@ -1,0 +1,4 @@
+[[history]]
+== Change History
+
+include::./changes-since-1.0.adoc[]

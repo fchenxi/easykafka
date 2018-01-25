@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-kafka
+Automatic-Module-Name: spring.kafka
+Implementation-Version: 2.1.2.BUILD-SNAPSHOT
+Implementation-Vendor-Id: org.springframework.kafka
+Created-By: JDK 1.8.0_131 (Oracle Corporation)
+Implementation-URL: https://github.com/spring-projects/spring-kafka
+Implementation-Vendor: Pivotal Software, Inc.
+
