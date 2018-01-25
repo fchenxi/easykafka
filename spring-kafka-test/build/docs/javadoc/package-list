@@ -1,6 +1,0 @@
-org.springframework.kafka.test.assertj
-org.springframework.kafka.test.context
-org.springframework.kafka.test.core
-org.springframework.kafka.test.hamcrest
-org.springframework.kafka.test.rule
-org.springframework.kafka.test.utils
